@@ -20,13 +20,13 @@
    npm install
    ```
 
-4. **Copy file .env.example lalu edit sesuaikan dengan konfigurasi**
+4. **Buat Database mysql**
+
+5. **Copy file .env.example lalu edit sesuaikan dengan konfigurasi**
 
    ```bash
    cp .env.example .env
    ```
-
-5. **Buat Database mysql**
 
 6. **Jalankan Project**
    ```bash
